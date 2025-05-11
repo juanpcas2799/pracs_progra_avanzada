@@ -4,3 +4,4 @@ enteros aleatorios entre 0 y 100, e identifica los valores mínimo y máximo, as
 
 El archivo prac2_matrix, dada la matriz h calcula la matriz transpuesta para cada uno
 de los dos planos de la matriz h
+# prac2
