@@ -17,3 +17,18 @@ iguales, así como comparar cual área es mayor de los dos
 
 En el archivo prac4_playlist se implementa un método para consultar la cantidad de canciones en una playlist, saber cual canción se
 encuentra en una posición específica y cambiar una canción de la playlist por otra
+
+#prac5
+Archivo prac5_impares: Dada una lista de números enteros cualquiera, utilice los métodos map, filter y reduce
+para filtrar los números impares de la lista y calcular la suma de sus cuadrados.
+
+Archivo prac5_productos: Dada una lista de diccionarios que representan productos con nombre (llave en el
+diccionario) y precio (valor de la llave en el diccionario), filtre los productos que
+cuestan más de $200, y aplique un descuento del 10%. Finalmente calcule el total de los
+productos que tienen descuento.
+
+Archivo prac5_formulas: Desarrolle un programa en Python que realice el cálculo de las fórmulas, utilice las
+funciones lambda, map, filter y/o reduce para el calculo de las sumatorias según
+sea necesario. Considere que los puntos para el cálculo se reciben como una lista de
+tuplas (cada tupla es un punto (x, y)) y m es el número de tuplas en la lista.
+
