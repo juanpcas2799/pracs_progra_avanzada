@@ -1,4 +1,6 @@
-# prac2
+# practicas
+
+#prac2
 El archivo prac2_3dArray genera una matriz con dimensiones 5x4x3 con valores enteros aleatorios entre 0 y 100, 
 e identifica los valores mínimo y máximo, así como las coordenadas en las que se localizan
 
@@ -31,4 +33,17 @@ Archivo prac5_formulas: Desarrolle un programa en Python que realice el cálculo
 funciones lambda, map, filter y/o reduce para el calculo de las sumatorias según
 sea necesario. Considere que los puntos para el cálculo se reciben como una lista de
 tuplas (cada tupla es un punto (x, y)) y m es el número de tuplas en la lista.
+
+#prac6
+Archivo prac6_listaproducto: Dadas dos listas de números, por ejemplo [1, 2, 3] y [4, 5, 6], genera una
+nueva lista que contenga el producto de los elementos correspondientes.
+
+Archivo prac6_personasMadrid: Dada una lista de diccionarios que representan personas con claves “nombre”, “edad” y
+“ciudad”,genera una nueva lista de nombres de personas que tengan más de 30 años y vivan en “Madrid”.
+
+Archivo prac6_media: Dada una lista de listas de números, utiliza una expresión generadora para calcular la
+media de todos los números.
+
+Archivo prac6_var_lista:  Utiliza una expresión generadora para calcular la varianza de una lista de números. La
+varianza se calcula como la media de los cuadrados de las diferencias con la media.
 
